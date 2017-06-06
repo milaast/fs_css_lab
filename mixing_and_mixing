@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Hello World</title>
+  <style>
+
+    body {
+
+      margin: 0;
+
+    }
+
+    .stripe {
+
+      display: inline-block;
+      width: 350px;
+      height: 200px;
+      margin:0;
+
+
+    }
+
+    #left-stripe{
+      
+      background-color:red;
+    }
+
+    #right-stripe{
+      
+      background-color:blue;
+    }
+
+    .box{
+
+      display:inline-block;
+      width:100px;
+      height:100px;
+      background-color:#000000;
+      margin-top:50px;
+      margin-left:50px;
+
+    }
+
+
+  </style>
+</head>
+<body>
+  
+  <div class="stripe" id="left-stripe">
+    <div class="box"></div>
+    <div class="box"></div>
+  </div><!--
+
+  --><div class="stripe" id="right-stripe">
+    <div class="box"></div>
+    <div class="box"></div>
+  </div>
+</body>
+</html>

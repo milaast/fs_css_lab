@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Hello World</title>
+</head>
+  <style>
+    body {
+
+      font-family: sans-serif;
+
+    }
+
+    .stripe {
+
+      background-color: #555555;
+      height: 130px;
+      width: 600px;
+      margin-bottom: 10px;
+
+
+    }
+
+    .top-header{
+
+      display: inline-block;
+      background-color: #cccccc; 
+      margin: 6px;
+      width: 150px;
+      height:50px;
+
+    }
+    
+  </style>
+<body>
+
+  <h1>AAAAAHHHHHHHH</h1>
+
+  <div class="stripe">
+
+    <div class="top-header">
+    </div>
+
+    <div class="top-header">
+    </div>
+
+    <div class="top-header">
+    </div>
+
+  </div>
+
+  <div class="stripe">
+  </div>
+
+  <div class="stripe">
+  </div>
+</body>
+</html>
